@@ -4,6 +4,7 @@ echo 'Under construction';
 echo '<a href="a.php">Redirect to current diretory page</a>';
 <<<<<<< HEAD
 echo '<a href="/dir1/a1.php">Redirect to dir1 diretory page</a>';
+echo 'Something wrong';
 ?>
 =======
 echo '<a href="/dir1/a1.php">Move to new page new directory</a>';
